@@ -3,9 +3,9 @@
 	<assemblyIdentity
 		version="1.0.0.0"
 		processorArchitecture="*"
-		name="Tagalong Games.Карточная игра «Девятка».Девятка"
+		name="Пакетные файлы.Расчёт данных по формуле.Formula"
 		type="win32" />
-	<description>Карточная игра «Девятка»</description>
+	<description>Расчёт данных по формуле</description>
 	<dependency>
 		<dependentAssembly>
 			<assemblyIdentity
